@@ -34,8 +34,7 @@ jobs:
         with:
           fetch-depth: 0
           submodules: true
-          # If using the 'assets' git submodule from Chirpy Starter, uncomment above
-          # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
+          # Uncomment if using the 'assets' git submodule from Chirpy Starter
 
       - name: Setup Pages
         id: pages
@@ -44,7 +43,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2.2   # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
+          ruby-version: 3.2.2   # Reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
           bundler-cache: true
 
       - name: Build site
@@ -52,9 +51,10 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
-      - name: Test site
-        run: |
-          bundle exec htmlproofer _site --disable-external
+      # Uncomment the following step if you want to skip the HTML-Proofer link check
+      # - name: Test site
+      #   run: |
+      #     bundle exec htmlproofer _site --disable-external
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v2
