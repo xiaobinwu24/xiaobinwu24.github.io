@@ -26,7 +26,9 @@ order: 4
 * Evolutionary Computation
 
 
-
+## Other Links
+[自我介绍](/asset/_docs/自我介绍.md)
+[Self-Introduction](/asset/_docs/selfintroduction.md)
 
 
 <!-- 
