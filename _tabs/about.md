@@ -27,8 +27,8 @@ order: 4
 
 
 ## Other Links
-[自我介绍](/asset/_docs/chineseintroduction.md)
-[Self-Introduction](/asset/_docs/selfintroduction.md)
+[自我介绍](/asset/_docs/1.md)
+[Self-Introduction](/asset/_docs/1.md)
 
 
 <!-- 
