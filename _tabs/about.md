@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# XIAOBIN WU 吴晓斌
+# XIAOBIN WU
 ## Basic Information
 * Email: xiaobinwu24@gmail.com
 * GitHub: <https://github.com/xiaobinwu24>
