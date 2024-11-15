@@ -37,6 +37,19 @@ plugins:
 # boolean type, the global switch for TOC in posts.
 toc: true
 
+giscus:
+  repo: "xiaobinwu24/xiaobinwu24.github.io"
+  repo_id: "R_kgDONPFDbQ"
+  category: "Comments"
+  category_id: "DIC_kwDONPFDbc4CkSUE"
+  mapping: "pathname"
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: "bottom"
+  theme: "preferred_color_scheme"
+  lang: "zh-CN"
+
 
 # ------------ The following options are not recommended to be modified ------------------
 
