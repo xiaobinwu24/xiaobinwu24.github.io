@@ -29,29 +29,28 @@ order: 4
 
 ## 项目经历
 
-### 一、
-毕业后首先在一家做聚合支付的公司开发了一款基于区块链技术的超盟星球App。该项目主要是基于联盟链技术发放对应的区块链积分，从而去活跃现有用户，增加用户留存。我在项目中的角色主要负责底层区块链系统搭建，以及App 对应后端业务系统的代码实现。
+### 1、Blockchain-Based Loyalty App Development
+After graduation, I joined a company focused on aggregated payment solutions and contributed to the development of a blockchain-based app called Super Alliance Planet. This project utilized consortium blockchain technology to issue blockchain-based loyalty points, aiming to engage existing users and improve retention. My role primarily involved setting up the blockchain infrastructure and implementing backend business systems for the app.
 
 
 
-### 二、
-去了一家叫玖昔科技的公司，还是做区块链方面的业务，包括基于联盟链的区块链积分发放，同时公司做了一个叫做通兑吧的saas平台，可以方便商户创建并且对接积分商城到自己的系统生态应用中。可以创建发放去中心化的积分。从而活跃用户增加用户留存。除掉saas积分系统，还对应开发了NFT 发放系统，以及叫做爱兑分的分层确定性去中心化钱包。在整个项目中，lead整个技术开发组，包括技术方案的敲定，区块链系统搭建，项目推进，项目沟通。核心代码编写。日常技术组管理等工作。
+### 2、SaaS Platform and Decentralized Points System
+I later joined a company called JiuXi Technology, continuing my work in blockchain-related projects. One key initiative was a SaaS platform named TongDuiBa, designed to help merchants create and integrate loyalty points ecosystems into their existing applications. This platform allowed merchants to issue decentralized loyalty points to increase user engagement and retention. In addition to the SaaS system, I also developed an NFT issuance system and a decentralized wallet called AiDuiFen, which featured layered determinism. In this role, I led the technical development team, overseeing technical solutions, blockchain infrastructure setup, project progression, and cross-team communication. My responsibilities also included core code development and managing the daily operations of the technical team.
+
+
+### 3、Blockchain Integration in the Financial and Insurance Sectors
+As blockchain applications began to encounter limitations in real-world scenarios, I shifted to ZhongAn Insurance (https://www.zhongan.com/), a Hong Kong-listed company, to explore the potential of combining blockchain with the finance and insurance industries. At ZhongAn, as a senior developer, I participated in creating stablecoins and launched U.S. stock trading services through ZhongAn Bank. I was responsible for designing and implementing core trading logic, portfolio management, monitoring, and alert systems. Additionally, as a technical leader, I spearheaded the integration of Hong Kong’s licensed exchange HashKey with ZhongAn Bank to provide digital currency trading services. My responsibilities included technical discussions, architecture design, and core code implementation. Throughout my time at ZhongAn, I consistently achieved top performance ratings.
 
 
 
-### 三、
-在感觉区块链项目遇到应用场景瓶颈之后，再加上DEFI热度比较高，应用场景也是出现得最多的领域，所以跳槽去了众安，看是否能够在金融以及保险行业结合区块链技术摩擦出一些火花。众安保险（<https://www.zhongan.com/>）是一家港股上市的公司。在这个过程当中，作为资深程序员，在众安参与了稳定币的创建，美股交易从0-1 在众安银行提供交易服务，负责交易核心业务逻辑，持仓逻辑，监控告警等架构设计，技术放哪设计以及核心代码逻辑实现。作为leader，从0-1领导了对接香港持牌交易所Hashkey,在众安银行提供数字货币交易服务，在其中负责与交易所以及银行核心交互的技术方案讨论，架构设计以及核心代码实现。绩效一直都是优秀。
-
-
-
-### 四、
-24年1月底开始作为合伙人在AI出海领域创业，主要作为项目技术负责人推进整个项目前进。已经上线了五款APP。主要职责包括，公司业务房展方向的确定及修正讨论，项目进度管理，技术团队建设，基础设施建设，AI技术预研等工作。
+### 4、AI-Driven Startups
+In January 2024, I became a co-founder in the AI and global app market space. As the technical leader, I have been driving the development of our projects, leading to the successful launch of five apps. My main responsibilities include defining and refining business strategies, managing project timelines, building the technical team, establishing infrastructure, and conducting AI technology research and development.
 
 
 
 ## 个人评价
 
-曾经年少轻狂，眼高手低，现在相对沉稳，踏实。追求技术与业务领域的双边发展，保持一直拥有的自驱的特质，希望通过努力，去实现自己人生的价值。
+Once young and reckless with unrealistic ambitions, I have since become more mature and pragmatic. I strive for balanced growth in both technical expertise and business acumen while maintaining a strong self-driven mindset. I aim to create meaningful value in my life through continuous effort and dedication.
 
 
 
