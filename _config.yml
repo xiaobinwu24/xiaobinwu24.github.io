@@ -34,9 +34,9 @@ avatar: "asset/104P34215-5.jpg"
 theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 # boolean type, the global switch for TOC in posts.
 toc: true
-
 giscus:
   repo: "xiaobinwu24/xiaobinwu24.github.io"
   repo_id: "R_kgDONPFDbQ"
